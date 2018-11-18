@@ -38,7 +38,7 @@ Table of Content:
 /*---------------------------------------------------- */
 /*----------------------------------------------------*/
 
-/* ta regu³a odszuka wszyskie elementy u1 w HTML i do w³aœciwoœci np list-style (styl listy) doda wartoœæ none(nic), mog³o by byc przyk³adowo list-style: circle;*/
+/* ta reguÂ³a odszuka wszyskie elementy u1 w HTML i do wÂ³aÅ“ciwoÅ“ci np list-style (styl listy) doda wartoÅ“Ã¦ none(nic), mogÂ³o by byc przykÂ³adowo list-style: circle;*/
 /*ul - lista*/
 ul {
     list-style: none;
@@ -865,18 +865,6 @@ body, p, h1, h2, h3, h4, h5, h6 {
 .footer_copyright {
   background: rgba(0, 0, 0, 0.7);
 }
-
-.footer_copyright .pull-left h5 {
-  font-size: 13px;
-  color: #fff;
-  font-family: "Raleway", sans-serif;
-  line-height: 100px;
-}
-
-    .footer_copyright .pull-left h5 a {
-        font-weight: bold;
-        color: rgba(30, 112, 126, 0.5);
-    }
 
 .footer_copyright .pull-right .navbar-nav li {
   margin-right: 40px;
