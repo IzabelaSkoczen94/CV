@@ -682,7 +682,7 @@ body, p, h1, h2, h3, h4, h5, h6 {
 
     .education_area .education_inner_area .education_item h6 {
         font-size: 14px;
-        color: rgba(30, 112, 126, 0.5);
+        color: rgb(30, 112, 126);
         font-family: "Raleway", sans-serif;
         font-weight: bold;
     }
@@ -690,7 +690,7 @@ body, p, h1, h2, h3, h4, h5, h6 {
 .education_area .education_inner_area .education_item h4 {
   font-size: 18px;
   font-family: "Raleway", sans-serif;
-  color: rgba(30, 112, 126, 0.5);
+  color: rgb(30, 112, 126);
   padding: 8px 0px 7px 0px;
 }
 
